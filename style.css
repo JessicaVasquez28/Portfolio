@@ -1,0 +1,44 @@
+/* Selector */
+/* three types of selector */
+/* 1. element selector
+2. class selector
+3. id selector */
+
+
+/* class selector
+.headingtag{
+    color:aqua;
+    font-weight:bold;
+}
+
+
+element selector
+p{
+    font-size: 50px;
+    color:blue;
+    font-weight: bold;
+
+
+}
+
+id selector
+#names{
+    font-size: 50px;
+    color:blue;
+    font-weight: bold;
+
+
+} */
+
+body{
+    font-family:"monospace",sans-serif;
+}
+
+.font-primary{
+    color: #00abae;
+}
+
+.title-icon{
+    font-size: 20px;
+    font-weight: bold;
+}
