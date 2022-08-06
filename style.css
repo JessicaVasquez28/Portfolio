@@ -30,6 +30,7 @@ id selector
 
 } */
 
+/* common */
 body{
     font-family:"monospace",sans-serif;
 }
@@ -43,6 +44,19 @@ body{
     font-weight: bold;
 }
 
+p{
+    font-size: 14px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+a.font-black{
+    color: #000 !important;
+}
 /* ABOUT */
 #about{
     margin: 60px auto;
@@ -73,7 +87,7 @@ body{
 
 #about .email{
     margin-top: 14px;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 #about .icons{
@@ -83,4 +97,23 @@ body{
 
 #about .icons a{
     color: rgb(12, 11, 11);
+}
+
+/* PROJECT */
+
+#project{
+    margin: 60px auto;
+    width: 80%;
+}
+
+#project h2{
+    text-align: center;
+}
+
+#project .card img{
+    width: 100%;
+}
+
+#project .card-title{
+    font-weight: bold;
 }
