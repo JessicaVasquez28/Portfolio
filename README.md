@@ -4,7 +4,8 @@ This portfolio is a small project using HTML / CSS and Bootstrap. I will be usin
 
 [Live Heroku Deployment](https://jessvasquez-portfolio.herokuapp.com/)
 
-![Screenshot 2022-08-07 9 15 30 PM](https://user-images.githubusercontent.com/107893348/183332213-30c7a832-3a29-4839-812c-631efe480d47.png)
+![Screenshot 2022-11-15 5 33 03 PM](https://user-images.githubusercontent.com/107893348/202054293-4d1d9929-1925-4b73-9170-495642666a6a.png)
+
 
 ## Technologies Used
 
